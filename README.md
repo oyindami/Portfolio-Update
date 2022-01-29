@@ -4,6 +4,14 @@
 Updated git hub profile to customize m pins
 Update PDF copy of my Resume
 
+1/27/2021
+
+## Table of Contents
+
+- [About](#About)
+- [Profile](#Profile)
+- [Contact](#Contact)
+
 
 1/27/2021
 
